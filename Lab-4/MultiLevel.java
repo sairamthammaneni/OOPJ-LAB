@@ -1,3 +1,4 @@
+//JAVA program to implement multi level inheritance
 class Animal{
 	void makesSound(){
 		System.out.println("Animals make sound");
