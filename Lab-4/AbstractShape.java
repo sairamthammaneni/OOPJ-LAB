@@ -1,4 +1,4 @@
-//Java program to implement single inheritance
+//Java program to find area of different shapes using absract class
 abstract class shape{
 	abstract double Area();
 }
