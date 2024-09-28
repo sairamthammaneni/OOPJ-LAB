@@ -1,3 +1,4 @@
+//Java program to implement interfaces
 interface shape{
 	double Area();
 }
