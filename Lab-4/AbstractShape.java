@@ -1,3 +1,4 @@
+//Java program to implement single inheritance
 abstract class shape{
 	abstract double Area();
 }
