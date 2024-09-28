@@ -1,3 +1,4 @@
+//Java program to print defalut values of data types
 public class defaultvalues {
 		static int Int;
 		static float Float;
